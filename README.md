@@ -2,8 +2,9 @@
 A simple AVR-based project that uses binary inputs to control individual LEDs.
 
 ## Overview
+
 This project implements a binary decoder using an AVR microcontroller. It reads the state of 3 input switches (providing 8 possible combinations) and lights up a corresponding LED based on the binary value.
---- 
+
 ## Hardware Requirements
 
 * AVR microcontroller (e.g., ATmega328P, Arduino Uno, etc.)
