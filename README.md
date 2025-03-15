@@ -19,6 +19,9 @@ This project implements a binary decoder using an AVR microcontroller. It reads 
 <img src="./8BitBinaryDecoder.jpg"/>
 Please ignore the photoresistor in the bottom left of the breadboard
 
+## [DEMO]("https://youtube.com/shorts/cXtNjOI3j3I?si=PnNXgZMgpXgUl6An")
+Just a youtube video for now. Check it out...
+
 ## How It Works
 
 1. The program reads the state of the three-position slide switch connected to PORTB (pins 0-2)
