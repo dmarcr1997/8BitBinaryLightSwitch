@@ -49,6 +49,9 @@ avrdude -c [programmer] -p m328p -U flash:w:8BitBinaryLightSwitch.hex
 ```
 
 ## Code Explanation
+
+[CODE](main.c)
+
 The program:
 
 1. Configures PORTD pins 2-7 as outputs for the LEDs
